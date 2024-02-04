@@ -8,6 +8,8 @@
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=ecomfixr&icon=5&color=1)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=ecomfixr&color=blue)
   
 </div>
 
