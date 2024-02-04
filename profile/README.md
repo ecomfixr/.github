@@ -1,4 +1,4 @@
-<img src="logo.jpg" alt="logo">
+<img src="profile/logo.jpg" alt="logo">
 
 # 💫 About Us
 <h3>🏛 eComFixr is an eCommerce Troubleshooting company specializing in crafting stunning eCommerce website development, Troubleshooting conversion roadblocks and delivering innovative solution to optimize your store performance</h3>
