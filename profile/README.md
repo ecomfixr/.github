@@ -9,7 +9,7 @@
 [![](https://visitcount.itsvg.in/api?id=ecomfixr&icon=5&color=1)](https://visitcount.itsvg.in)
 
 # 🌐 Our Socials
-<div align="left">
+<div align="left" style="background-color:white;">
   <a href="https://www.facebook.com/ecomfixr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
