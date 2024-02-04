@@ -29,12 +29,12 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-<p style="margin:0;display:inline;float:left" align="center">
+<p style="margin:0;display:inline;float:left">
   <a href="">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-<p style="margin:0;display:inline;float:left" align="center">
+<p style="margin:0;display:inline;float:left">
   <a href="">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
