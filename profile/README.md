@@ -1,12 +1,9 @@
-
-
+<img src="logo.jpg" alt="Girl in a jacket">
 
 # 💫 About Us
 <h3>🏛 eComFixr is an eCommerce Troubleshooting company specializing in crafting stunning eCommerce website development, Troubleshooting conversion roadblocks and delivering innovative solution to optimize your store performance</h3>
 🚀 Shopify Development<br>🚀 Woocommerce Development<br>🚀 Wix Development<br>🚀 Wordpress Development<br>🚀 Sqarespace Development<br>🚀 Product Research<br>🚀 Supplier Management<br>🚀 eCommerce Troubleshooting<br>🚀 eCommerce CRO
 <br><br>
-
-<img src="logo.jpg" alt="Girl in a jacket">
 
 [![](https://visitcount.itsvg.in/api?id=ecomfixr&icon=5&color=1)](https://visitcount.itsvg.in)
 
