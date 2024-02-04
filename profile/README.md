@@ -1,4 +1,5 @@
-<img src="logo.jpg" alt="Girl in a jacket" width="500" height="600">
+
+<img src="logo.jpg" alt="Girl in a jacket">
 
 # 💫 About Us
 <h3>🏛 eComFixr is an eCommerce Troubleshooting company specializing in crafting stunning eCommerce website development, Troubleshooting conversion roadblocks and delivering innovative solution to optimize your store performance</h3>
