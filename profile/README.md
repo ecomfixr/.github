@@ -1,5 +1,5 @@
 # 💫 About Us :
-<h3>asa</h3>
+<h3>eComFixr is an eCommerce Troubleshooting company specializing in crafting stunning eCommerce website development</h3>
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
