@@ -14,8 +14,6 @@
 
 </div>
 
-<br>
-
 # 🌐 Our Socials
 
 <div>
