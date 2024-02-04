@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=ecomfixr&icon=7&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ecomfixr&icon=6&color=1)](https://visitcount.itsvg.in)
 # 💫 About Us
 <h3>🏛 eComFixr is an eCommerce Troubleshooting company specializing in crafting stunning eCommerce website development, Troubleshooting conversion roadblocks and delivering innovative solution to optimize your store performance</h3>
 🚀 Shopify Development<br>🚀 Woocommerce Development<br>🚀 Wix Development<br>🚀 Wordpress Development<br>🚀 Sqarespace Development<br>🚀 Product Research<br>🚀 Supplier Management<br>🚀 eCommerce Troubleshooting<br>🚀 eCommerce CRO
