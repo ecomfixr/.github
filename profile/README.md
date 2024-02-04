@@ -10,21 +10,21 @@
 
 # 🌐 Our Socials
 
-<p align="center">
+<p style="margin:0;display:inline;float:left">
   <a href="https://www.linkedin.com/company/ecomfixr/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p><p align="center">
+</p><p style="margin:0;display:inline;float:left">
   <a href="https://www.instagram.com/ecomfixr/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-<p align="center">
+<p style="margin:0;display:inline;float:left">
   <a href="https://twitter.com/eComFixR">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
-<p align="center">
+<p style="margin:0;display:inline;float:left">
   <a href="https://github.com/ecomfixr">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
