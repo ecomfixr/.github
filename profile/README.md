@@ -2,7 +2,7 @@
 <h3>🏛 eComFixr is an eCommerce Troubleshooting company specializing in crafting stunning eCommerce website development, Troubleshooting conversion roadblocks and delivering innovative solution to optimize your store performance</h3>
 🚀 Shopify Development<br>🚀 Woocommerce Development<br>🚀 Wix Development<br>🚀 Wordpress Development<br>🚀 Sqarespace Development<br>🚀 Product Research<br>🚀 Supplier Management<br>🚀 eCommerce Troubleshooting<br>🚀 eCommerce CRO
 
-## 🌐 Socials:
+# 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ecomfixr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ecomfixr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ecomfixr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ecomfixr) 
 
 # 💻 Tech Stack:
