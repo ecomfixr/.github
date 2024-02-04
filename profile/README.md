@@ -7,11 +7,13 @@
 <br><br>
 <div align="center">
 
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=ecomfixr&icon=5&color=1)](https://visitcount.itsvg.in)
 
 </div>
 
-<br><br>
+<br>
 
 # 🌐 Our Socials
 
@@ -36,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-<br><br>
+<br>
 
 # 💻 Our Tech Stack
 
