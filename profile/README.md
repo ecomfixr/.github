@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd0ZmQyNWEwdzNobWpsdDA0MzFxY3V5N2UwaWRmOTF6dzR2N3JybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jf1JcPmsxDsO3GUFjd/giphy.gif" alt="logo">
 <br>
 
 # 💻 Our Tech Stack
