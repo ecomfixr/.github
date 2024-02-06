@@ -5,8 +5,20 @@
 # 💫 About Us
                                    
 <h3>✨ eComFixR is an eCommerce Troubleshooting company specializing in crafting stunning eCommerce websites development, troubleshooting conversion roadblocks, and delivering innovative solutions to optimize your store performance</h3>
-🚀 Shopify Development<br>🚀 Woocommerce Development<br>🚀 Wix Development<br>🚀 Wordpress Development<br>🚀 Sqarespace Development<br>🚀 Product Research<br>🚀 Supplier Management<br>🚀 eCommerce Troubleshooting<br>🚀 eCommerce CRO
+<div style="display: inline;">
+
+<div>
+  🚀 Shopify Development<br>🚀 Woocommerce Development<br>🚀 Wix Development<br>🚀 Wordpress Development<br>🚀 Sqarespace Development<br>🚀 Product Research<br>🚀 Supplier Management<br>🚀 eCommerce Troubleshooting<br>🚀 eCommerce CRO
+</div>
+
+<div>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd0ZmQyNWEwdzNobWpsdDA0MzFxY3V5N2UwaWRmOTF6dzR2N3JybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jf1JcPmsxDsO3GUFjd/giphy.gif" alt="logo">
+  
+</div>
+  
+</div>
+
+
 <br><br>
 
 <div align="center">
