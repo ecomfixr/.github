@@ -51,5 +51,5 @@
 <br>
 
 <div align="center">
-<img style="border-radius: 20%;" src="Glossary of 72 Ecommerce Terms You Need to Know.jpg" alt="logo">
+<img src="Glossary of 72 Ecommerce Terms You Need to Know.jpg" alt="logo">
 <div>
