@@ -1,0 +1,65 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    padding:0;
+    background:#f8f8f8;
+    position:relative;
+    overflow-x:hidden;
+}
+.announcement{
+    background:#ff6347;
+    color:#fff;
+    text-align:center;
+    padding:10px;
+}
+.hero{
+    background:#333;
+    color:#fff;
+    text-align:center;
+    padding:60px 20px;
+}
+.tagline{
+    font-size:1.2em;
+    margin-top:10px;
+}
+.features, .benefits, .custom, .comparison, .pricing, .testimonials, .as-seen, .faq{
+    padding:40px 20px;
+    background:#fff;
+    margin:20px auto;
+    max-width:800px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+.features h2, .benefits h2, .custom h2, .comparison h2, .pricing h2, .testimonials h2, .as-seen h2, .faq h2{
+    text-align:center;
+}
+.features ul, .benefits ul, .as-seen ul{
+    list-style:disc inside;
+}
+.comparison table, .pricing table{
+    width:100%;
+    border-collapse:collapse;
+}
+.comparison th, .comparison td, .pricing th, .pricing td{
+    border:1px solid #ddd;
+    padding:10px;
+    text-align:center;
+}
+.floating-icons i{
+    position:absolute;
+    font-size:40px;
+    color:rgba(0,0,0,0.1);
+    animation: float 10s linear infinite;
+}
+.floating-icons i:nth-child(1){ top:10%; left:-50px; }
+.floating-icons i:nth-child(2){ top:40%; left:-80px; animation-duration:12s; }
+.floating-icons i:nth-child(3){ top:70%; left:-30px; animation-duration:8s; }
+@keyframes float{
+    from{ transform:translateX(0); }
+    to{ transform:translateX(120vw); }
+}
+footer{
+    text-align:center;
+    padding:20px;
+    background:#333;
+    color:#fff;
+}
